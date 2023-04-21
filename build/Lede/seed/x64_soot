@@ -273,7 +273,6 @@ CONFIG_boost-static-and-shared-libs=y
 CONFIG_boost-variant-release=y
 CONFIG_shadow-all=y
 CONFIG_PACKAGE_UnblockNeteaseMusic-Go=y
-CONFIG_PACKAGE_chinadns-ng=y
 CONFIG_PACKAGE_kmod-crypto-kpp=y
 # CONFIG_PACKAGE_kmod-inet-diag is not set
 CONFIG_PACKAGE_libminiupnpc=y

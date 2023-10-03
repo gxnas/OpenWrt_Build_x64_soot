@@ -5,6 +5,10 @@
 # 不要一下就拉取别人一个插件包N多插件的，多了没用，增加编译错误，自己需要的才好
 
 
+#添加partexp插件
+git clone https://github.com/sirpdboy/luci-app-partexp.git package/luci-app-partexp
+
+
 # 后台IP设置
 export Ipv4_ipaddr="172.16.10.1"             # 修改openwrt后台地址(填0为关闭)
 export Netmask_netm="255.255.255.0"          # IPv4 子网掩码（默认：255.255.255.0）(填0为不作修改)
